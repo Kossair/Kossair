@@ -2,7 +2,7 @@
 
 <h1 align="center">peter</h1>
 
-<p align="center">System developer</p>
+<p align="center">Minecraft developer</p>
 
 
 <a href="https://github.com/Kossair">
