@@ -3,6 +3,7 @@
 <h1 align="center">peter</h1>
 
 <p align="center">Minecraft developer</p>
+<p align="center">Owner @ dc.royalmc.hu</p>
 
 
 <a href="https://github.com/Kossair">
